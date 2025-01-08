@@ -1,0 +1,2 @@
+# LCPractice
+Leetcode Practice Log
